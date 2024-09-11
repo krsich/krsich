@@ -2,7 +2,8 @@
 Мне нравится разбираться, как устроены сложные вещи, и применять свои знания в решении практических задач. Профессия разработчика привлекает меня сочетанием этих возможностей
 
 ## Стек 
-C++, STL, Qt, [HarfBuzz](https://harfbuzz.github.io/), [FreeType](https://freetype.org/), Protobuf, ANTLR, Git, CMake, GDB, ASan
+C++, Qt, [HarfBuzz](https://harfbuzz.github.io/), [FreeType](https://freetype.org/), Protobuf, ANTLR, Git, CMake
+Python, Flask
 
 Я выбрал для себя C++, потому что это мощный и универсальный инструмент: язык широко распространён, развивается и у него большое сообщество
 
